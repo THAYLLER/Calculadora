@@ -1,0 +1,9 @@
+C:\Users\thayller\Documents\GitHub\programas\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\thayller\Documents\GitHub\programas\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\thayller\Documents\GitHub\programas\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\thayller\Documents\GitHub\programas\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\thayller\Documents\GitHub\programas\calculadora\calculadora\obj\Debug\calculadora.FmrCalculadora.resources
+C:\Users\thayller\Documents\GitHub\programas\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\thayller\Documents\GitHub\programas\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\thayller\Documents\GitHub\programas\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\thayller\Documents\GitHub\programas\calculadora\calculadora\obj\Debug\calculadora.pdb
